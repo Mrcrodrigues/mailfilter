@@ -1,3 +1,4 @@
+// WITH MAIL : PASSWORD OUTPUT
 <?php
 
 error_reporting(0);
