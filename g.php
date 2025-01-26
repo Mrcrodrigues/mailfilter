@@ -1,3 +1,4 @@
+# MAIL FILTER WITHOUT PASSWORD ONLY EMAIL
 <?php
 
 error_reporting(0);
